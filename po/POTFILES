@@ -1,0 +1,7 @@
+data/com.github.spidermonkdust.GNOMEBan.desktop.in
+data/com.github.spidermonkdust.GNOMEBan.appdata.xml.in
+data/com.github.spidermonkdust.GNOMEBan.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

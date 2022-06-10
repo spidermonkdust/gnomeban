@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnomeban">
+	<schema id="com.github.spidermonkdust.GNOMEBan" path="/com/github/spidermonkdust/GNOMEBan/">
+	</schema>
+</schemalist>
